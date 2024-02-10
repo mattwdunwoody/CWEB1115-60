@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>022769df-cf65-48dc-afd3-4462072f5e26</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>mutability.py</StartupFile>
+    <StartupFile>week2\mutability.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,8 +21,14 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="mutability.py" />
-    <Compile Include="strings_functions.py" />
+    <Compile Include="week2\madlib.py" />
+    <Compile Include="week2\mutability.py" />
+    <Compile Include="week2\strings_functions.py" />
+    <Compile Include="week3\collections.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="week3\" />
+    <Folder Include="week2\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

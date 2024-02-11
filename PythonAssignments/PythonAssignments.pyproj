@@ -26,6 +26,7 @@
     <Compile Include="week2\strings_functions.py" />
     <Compile Include="week3\collections.py" />
     <Compile Include="week3\revisit_collections.py" />
+    <Compile Include="week3\revisit_part2.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="week3\" />

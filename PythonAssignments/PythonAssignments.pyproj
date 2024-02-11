@@ -25,6 +25,7 @@
     <Compile Include="week2\mutability.py" />
     <Compile Include="week2\strings_functions.py" />
     <Compile Include="week3\collections.py" />
+    <Compile Include="week3\numbers_demo.py" />
     <Compile Include="week3\revisit_collections.py" />
     <Compile Include="week3\revisit_part2.py" />
   </ItemGroup>

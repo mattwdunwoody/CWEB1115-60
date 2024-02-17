@@ -34,17 +34,15 @@
 # With some blank lines, these instructions are 35 lines long. The candidate solution code is 16 lines long, with 3 blank lines included. 
 #   There is more than one way to code this correctly.
 
-from math import sqrt, ceil
-
 def primeComprehension(user_range):    
-    prime_list = [ number for number in range(2, user_range+1) if all(number % factor != 0 for factor in range(2, ceil(sqrt(number))+1)) ]
+    prime_list = [ number for number in range(2, user_range+1) if all(number % factor != 0 for factor in range(2, int(number**0.5)+1)) ]
     return prime_list
  
 def primeForLoop(user_range):
     prime_list = []
     for number in range(2, user_range+1):
         prime = True
-        for factor in range(2, ceil(sqrt(number))+1):
+        for factor in range(2, int(number**0.5)+1):
             if(number % factor == 0): prime = False
         if(prime): prime_list.append(number)
     return prime_list

@@ -29,8 +29,10 @@
     <Compile Include="week3\numbers_demo.py" />
     <Compile Include="week3\revisit_collections.py" />
     <Compile Include="week3\revisit_part2.py" />
+    <Compile Include="week4\workingwithlists.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="week4\" />
     <Folder Include="week3\" />
     <Folder Include="week2\" />
   </ItemGroup>

@@ -1,3 +1,5 @@
+**This is the assignment description given by the teacher:**
+
 **Date Magic**
 
 The following assignment was created by ChatGPT when I asked it to do this "Create a fun and interesting assignment in Python specific to dates." I did not edit any of the language below. I then asked for a solution, which it provided, and I tested it. It is correct.

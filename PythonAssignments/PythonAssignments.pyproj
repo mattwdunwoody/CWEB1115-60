@@ -30,11 +30,18 @@
     <Compile Include="week3\revisit_collections.py" />
     <Compile Include="week3\revisit_part2.py" />
     <Compile Include="week4\workingwithlists.py" />
+    <Compile Include="week5\bools.py" />
+    <Compile Include="week5\dates.py" />
+    <Compile Include="week5\date_magic_challenge-1.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="week5\" />
     <Folder Include="week4\" />
     <Folder Include="week3\" />
     <Folder Include="week2\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="week5\readme.md" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

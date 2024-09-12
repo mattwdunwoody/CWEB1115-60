@@ -1,0 +1,71 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>2db61f91-eae8-4dab-9f99-6899b7bf44a0</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>controller.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>GetToTheTop</Name>
+    <RootNamespace>GetToTheTop</RootNamespace>
+    <InterpreterId>
+    </InterpreterId>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Actions\Combat.py" />
+    <Compile Include="Actions\Help.py" />
+    <Compile Include="Actions\Inventory.py" />
+    <Compile Include="Actions\Looting.py" />
+    <Compile Include="Actions\Map.py" />
+    <Compile Include="Actions\Move.py" />
+    <Compile Include="controller.py" />
+    <Compile Include="Dialogue\CustomAscii.py" />
+    <Compile Include="Dialogue\HelpText.py" />
+    <Compile Include="Dialogue\Narrator.py" />
+    <Compile Include="Dialogue\RandomSplash.py" />
+    <Compile Include="Dialogue\UIElements.py" />
+    <Compile Include="Entities\Chest.py" />
+    <Compile Include="Entities\Enemy.py" />
+    <Compile Include="Entities\Player.py" />
+    <Compile Include="GameData\Game.py" />
+    <Compile Include="GameData\GameDefaults.py" />
+    <Compile Include="GameLoop\GameLoop.py" />
+    <Compile Include="GameLoop\InputHandler.py" />
+    <Compile Include="LevelData\Level.py" />
+    <Compile Include="LevelData\LevelManager.py" />
+    <Compile Include="model.py" />
+    <Compile Include="view.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="GameData\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Dialogue\" />
+    <Folder Include="LevelData\" />
+    <Folder Include="GameLoop\" />
+    <Folder Include="Actions\" />
+    <Folder Include="Items\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Items\Items.json" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

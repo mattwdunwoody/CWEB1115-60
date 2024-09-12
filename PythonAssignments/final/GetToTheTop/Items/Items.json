@@ -1,0 +1,173 @@
+{
+  "basic sword": {
+    "tier": 0,
+    "type": "weapon",
+    "hands": 1,
+    "info": "An ugly thing. It appears to be nothing more than a flat piece of steel attached to a handle.",
+    "pos": {
+      "damage": 1
+    },
+    "neg": {}
+  },
+  "basic shield": {
+    "tier":  0,
+    "type": "weapon",
+    "hands": 1,
+    "info": "An awkward wooden shield that appears to be made out of... floorboards?",
+    "pos": {
+      "defense": 1
+    },
+    "neg": {
+      "agility": -1
+    }
+  },
+  "basic armor": {
+    "tier": 0,
+    "type": "armor",
+    "info": "An admittedly quite comfortable, but worn, padded leather gambeson.",
+    "pos": {
+      "defense": 1
+    },
+    "neg": {}
+  },
+  "steel claymore": {
+    "tier": 1,
+    "type": "weapon",
+    "hands": 2,
+    "info": "A quite hefty two-handed sword. Notably sharp, but slightly unwieldy.",
+    "pos": {
+      "damage": 3
+    },
+    "neg": {
+      "agility": -1
+    }
+  },
+  "steel chainmail": {
+    "tier": 1,
+    "type": "armor",
+    "info": "Deceptively heavy, but quite easy to move in. Offers decent protection from lacerations.",
+    "pos": {
+      "defense": 3,
+      "agility": 3
+    },
+    "neg": {}
+  },
+  "steel heater shield": {
+    "tier": 1,
+    "type": "weapon",
+    "hands": 1,
+    "info": "A light one-handed shield. Offers decent mobility and protection, but leaves some areas uncovered.",
+    "pos": {
+      "defense": 2
+    },
+    "neg": {}
+  },
+  "steel shortsword": {
+    "tier": 1,
+    "type": "weapon",
+    "hands": 1,
+    "info": "A light one-handed sword. Sacrifices the higher damage of a two-handed weapon for more mobility\nand the ability to carry a shield.",
+    "pos": {
+      "damage": 2
+    },
+    "neg": {}
+  },
+  "Bane of The Undead": {
+    "tier": 2,
+    "type": "weapon",
+    "hands": 2,
+    "info": "A sturdy two-handed sword. Very heavy, but well-balanced. The blade has an inscription that reads 'May this blade swing true and save me from peril'. It seems as though it did not work out for the previous owner.",
+    "pos": {
+      "damage": 5
+    },
+    "neg": {
+      "agility": -2,
+      "defense": -1
+    }
+  },
+  "Persuasion": {
+    "tier": 2,
+    "type": "weapon",
+    "hands": 1,
+    "info": "A beautifully crafted one-handed sword. Where it lacks in might, it more than makes up for it in maneuverability.",
+    "pos": {
+      "damage": 3,
+      "agility": 2
+    },
+    "neg": {}
+  },
+  "Pyx Shield": {
+    "tier": 2,
+    "type": "weapon",
+    "hands": 1,
+    "info": "An ornate kite shield with engravings and a painted front. While it is a bit heavy for a one-handed shield, it offers very good protection.",
+    "pos": {
+      "defense": 3
+    },
+    "neg": {
+      "agility": -1
+    }
+  },
+  "Maximillian Plate Armor": {
+    "tier": 2,
+    "type": "armor",
+    "info": "A suit of fluted plate armor. Decently easy to move in and quite functional despite being very heavy.",
+    "pos": {
+      "defense": 5
+    },
+    "neg": {
+      "agility": -1
+    }
+  },
+  "Cloak of Shadows": {
+    "tier": 2,
+    "type": "armor",
+    "info": "A tight-fitting cloak. The cloth that it is woven from makes whatever is behind it appear invisible unless viewed\nfrom a specific angle. While it lacks in defense, it could be quite useful in evading enemies.",
+    "pos": {
+      "agility": 10
+    },
+    "neg": {}
+  },
+  "The Law": {
+    "tier": 3,
+    "type": "weapon",
+    "hands": 2,
+    "info": "A heavy two-handed sword that seems to feel like an extension of yourself.",
+    "pos": {
+      "damage": 15
+    },
+    "neg": {
+      "agility": -1
+    }
+  },
+  "Shield of Light": {
+    "tier": 3,
+    "type": "weapon",
+    "hands": 1,
+    "info": "A golden shield that seems to glow slightly, even in the darkness of the dungeon.",
+    "pos": {
+      "defense": 7
+    },
+    "neg": {}
+  },
+  "Sword of Darkness": {
+    "tier": 3,
+    "type": "weapon",
+    "hands": 1,
+    "info": "A bastard sword with a blackened blade. It whispers to you. Can you hear it?",
+    "pos": {
+      "damage": 7
+    },
+    "neg": {}
+  },
+  "Armor of Tarkir": {
+    "tier": 3,
+    "type": "armor",
+    "info": "A suit of armor forged of an unknown material. It is extremely strong, but also extremely light.",
+    "pos": {
+      "defense": 7,
+      "agility": 5
+    },
+    "neg": {}
+  }
+}

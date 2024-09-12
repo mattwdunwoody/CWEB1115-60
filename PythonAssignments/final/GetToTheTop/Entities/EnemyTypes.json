@@ -1,0 +1,39 @@
+{
+  "skeleton": {
+    "health": 3,
+    "stats": {
+      "damage": 1,
+      "defense": 0,
+      "agility": 3
+    },
+    "abilities": {
+      "dodge": {
+        "info": "guaranteed dodge on player's next attack."
+      }
+    }
+  },
+  "goblin": {
+    "health": 1,
+    "stats": {
+      "damage": 1,
+      "defense": 0,
+      "agility": 5
+    },
+    "abilities": {
+      "steal": {
+        "info": "takes a random item from the player's inventory, flees."
+      }
+    }
+  },
+  "skeleton knight": {
+    "health": 5,
+    "stats": {
+      "damage": 3,
+      "defense": 3,
+      "agility": -3
+    },
+    "abilities": {
+      "shove": "causes player to stumble for one turn."
+    }
+  }
+}

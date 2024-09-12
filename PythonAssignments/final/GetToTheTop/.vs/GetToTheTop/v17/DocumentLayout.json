@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Actions\\Looting.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|solutionrelative:Actions\\Looting.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Actions\\Map.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|solutionrelative:Actions\\Map.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Actions\\Inventory.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|solutionrelative:Actions\\Inventory.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\game_state.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game_state.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\GameData\\Game.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|solutionrelative:GameData\\Game.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\GameLoop\\GameLoop.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|solutionrelative:GameLoop\\GameLoop.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Actions\\Combat.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|solutionrelative:Actions\\Combat.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Dialogue\\CustomAscii.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|solutionrelative:Dialogue\\CustomAscii.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\model.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|solutionrelative:model.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Entities\\Player.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|solutionrelative:Entities\\Player.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\view.py||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|solutionrelative:view.py||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Dialogue\\Narrator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|solutionrelative:Dialogue\\Narrator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\LevelData\\LevelManager.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|solutionrelative:LevelData\\LevelManager.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Entities\\Chest.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|solutionrelative:Entities\\Chest.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Actions\\Move.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|solutionrelative:Actions\\Move.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\GameLoop\\InputHandler.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|solutionrelative:GameLoop\\InputHandler.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Dialogue\\HelpText.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|solutionrelative:Dialogue\\HelpText.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Entities\\Enemy.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DB61F91-EAE8-4DAB-9F99-6899B7BF44A0}|GetToTheTop.pyproj|solutionrelative:Entities\\Enemy.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "game_state.json",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\game_state.json",
+              "RelativeDocumentMoniker": "game_state.json",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\game_state.json",
+              "RelativeToolTip": "game_state.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T00:02:39.393Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.py",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Actions\\Inventory.py",
+              "RelativeDocumentMoniker": "Actions\\Inventory.py",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Actions\\Inventory.py",
+              "RelativeToolTip": "Actions\\Inventory.py",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwDMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-26T01:03:28.442Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.py",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\GameData\\Game.py",
+              "RelativeDocumentMoniker": "GameData\\Game.py",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\GameData\\Game.py",
+              "RelativeToolTip": "GameData\\Game.py",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAKgAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-25T19:07:24.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Chest.py",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Entities\\Chest.py",
+              "RelativeDocumentMoniker": "Entities\\Chest.py",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Entities\\Chest.py",
+              "RelativeToolTip": "Entities\\Chest.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-08T23:23:17.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "model.py",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\model.py",
+              "RelativeDocumentMoniker": "model.py",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\model.py",
+              "RelativeToolTip": "model.py",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAjwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-10T01:21:47.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LevelManager.py",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\LevelData\\LevelManager.py",
+              "RelativeDocumentMoniker": "LevelData\\LevelManager.py",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\LevelData\\LevelManager.py",
+              "RelativeToolTip": "LevelData\\LevelManager.py",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-11T03:41:02.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.py",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Entities\\Player.py",
+              "RelativeDocumentMoniker": "Entities\\Player.py",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Entities\\Player.py",
+              "RelativeToolTip": "Entities\\Player.py",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-10T22:33:16.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Looting.py",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Actions\\Looting.py",
+              "RelativeDocumentMoniker": "Actions\\Looting.py",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Actions\\Looting.py",
+              "RelativeToolTip": "Actions\\Looting.py",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-07T00:21:11.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Map.py",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Actions\\Map.py",
+              "RelativeDocumentMoniker": "Actions\\Map.py",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Actions\\Map.py",
+              "RelativeToolTip": "Actions\\Map.py",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAD8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-11T05:26:43.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Narrator.py",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Dialogue\\Narrator.py",
+              "RelativeDocumentMoniker": "Dialogue\\Narrator.py",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Dialogue\\Narrator.py",
+              "RelativeToolTip": "Dialogue\\Narrator.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-11T04:00:12.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomAscii.py",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Dialogue\\CustomAscii.py",
+              "RelativeDocumentMoniker": "Dialogue\\CustomAscii.py",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Dialogue\\CustomAscii.py",
+              "RelativeToolTip": "Dialogue\\CustomAscii.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABGAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-11T03:58:17.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "view.py",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\view.py",
+              "RelativeDocumentMoniker": "view.py",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\view.py",
+              "RelativeToolTip": "view.py",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-11T00:45:22.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameLoop.py",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\GameLoop\\GameLoop.py",
+              "RelativeDocumentMoniker": "GameLoop\\GameLoop.py",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\GameLoop\\GameLoop.py",
+              "RelativeToolTip": "GameLoop\\GameLoop.py",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-25T19:07:24.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Combat.py",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Actions\\Combat.py",
+              "RelativeDocumentMoniker": "Actions\\Combat.py",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Actions\\Combat.py",
+              "RelativeToolTip": "Actions\\Combat.py",
+              "ViewState": "AQIAAEgBAAAAAAAAAAAAAFcBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-07T00:21:02.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InputHandler.py",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\GameLoop\\InputHandler.py",
+              "RelativeDocumentMoniker": "GameLoop\\InputHandler.py",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\GameLoop\\InputHandler.py",
+              "RelativeToolTip": "GameLoop\\InputHandler.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-11T06:25:43.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Move.py",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Actions\\Move.py",
+              "RelativeDocumentMoniker": "Actions\\Move.py",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Actions\\Move.py",
+              "RelativeToolTip": "Actions\\Move.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-26T01:02:37.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enemy.py",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Entities\\Enemy.py",
+              "RelativeDocumentMoniker": "Entities\\Enemy.py",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Entities\\Enemy.py",
+              "RelativeToolTip": "Entities\\Enemy.py",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-10T00:47:03.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HelpText.py",
+              "DocumentMoniker": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Dialogue\\HelpText.py",
+              "RelativeDocumentMoniker": "Dialogue\\HelpText.py",
+              "ToolTip": "C:\\Users\\widmatg\\Desktop\\python\\GetToTheTop\\Dialogue\\HelpText.py",
+              "RelativeToolTip": "Dialogue\\HelpText.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABHAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-11T06:28:28.181Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
